@@ -4,5 +4,5 @@ I have completed the Practical Exam Associate QA Engineer assignment on a google
 
 Answer sheet - https://docs.google.com/spreadsheets/d/1aNrZMfcy-nEoOAnbRwIEsbhpSZ1G9IUTq7mw8GB-qTQ/edit?usp=sharing 
 
-Summary report - https://github.com/KavinJ3344/Practical-Exam-Associate-QA-Engineer--Delivergate/blob/main/Test_Summary_Report-Kavin%20Jayawardnena.pdf 
+Summary report(QA Documentation) - https://github.com/KavinJ3344/Practical-Exam-Associate-QA-Engineer--Delivergate/blob/main/Test_Summary_Report-Kavin%20Jayawardnena.pdf 
 
